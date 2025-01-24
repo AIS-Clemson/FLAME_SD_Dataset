@@ -1,6 +1,8 @@
 
 # FLAME Diffuser: Wildfire Image Synthesis using Mask Guided Diffusion
 
+# NOTE: This is an legacy version of this project
+
 ## Introduction
 
 Wildfires have devastating impacts on natural environments and human settlements. Existing fire detection systems rely on large, annotated datasets that often lack geographic diversity, leading to decreased generalizability. To address this, we introduce the **FLAME Diffuser**, a diffusion-based framework that synthesizes high-quality wildfire images with precise flame location control. This training-free framework eliminates the need for model fine-tuning and provides a dataset of 10,000 high-quality images, enhancing the development of robust wildfire detection models.
