@@ -1,7 +1,7 @@
+# NOTE: This is an legacy version of this project
 
 # FLAME Diffuser: Wildfire Image Synthesis using Mask Guided Diffusion
 
-# NOTE: This is an legacy version of this project
 
 ## Introduction
 
