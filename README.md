@@ -1,6 +1,10 @@
 # FLAME_SD_Dataset
 Datasets for FLAME_SD project: [https://github.com/AIS-Clemson/FLAME_SD](https://github.com/AIS-Clemson/FLAME_SD)
 
+## Sample Dataset
+
+<img src="./Figure/grid.jpg" width=100%>
+
 For more details, visit the [Project Page](https://arazi2.github.io/aisends.github.io/project/flame).
 
 # Citation 
