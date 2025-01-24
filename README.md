@@ -2,6 +2,7 @@
 Datasets for FLAME_SD project: [https://github.com/AIS-Clemson/FLAME_SD](https://github.com/AIS-Clemson/FLAME_SD)
 
 # Citation
+```
 @INPROCEEDINGS {10826040,
 author = { Wang, Hao and Haeri Boroujeni, Sayed Pedram and Chen, Xiwen and Bastola, Ashish and Li, Huayu and Zhu, Wenhui and Razi, Abolfazl },
 booktitle = { 2024 IEEE International Conference on Big Data (BigData) },
@@ -15,3 +16,4 @@ url = {https://doi.ieeecomputersociety.org/10.1109/BigData62323.2024.10826040},
 publisher = {IEEE Computer Society},
 address = {Los Alamitos, CA, USA},
 month =Dec}
+```
