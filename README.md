@@ -1,7 +1,11 @@
 # FLAME_SD_Dataset
 Datasets for FLAME_SD project: [https://github.com/AIS-Clemson/FLAME_SD](https://github.com/AIS-Clemson/FLAME_SD)
 
-# Citation
+For more details, visit the [Project Page](https://arazi2.github.io/aisends.github.io/project/flame).
+
+# Citation 
+<a href="https://doi.ieeecomputersociety.org/10.1109/BigData62323.2024.10826040">FLAME Diffuser: Wildfire Image Synthesis using Mask Guided Diffusion</a>
+
 ```
 @INPROCEEDINGS {10826040,
 author = { Wang, Hao and Haeri Boroujeni, Sayed Pedram and Chen, Xiwen and Bastola, Ashish and Li, Huayu and Zhu, Wenhui and Razi, Abolfazl },
